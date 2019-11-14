@@ -1,4 +1,4 @@
-Some supplementary code in R regarding the ARGVG Model
+Some supplementary code in R for the ARGVG Model
 ================
 
 
